@@ -19,3 +19,5 @@ It is also necessary to add the client dependency to the client microservices.
 	<groupId>org.springframework.cloud</groupId>
 	<artifactId>spring-cloud-starter-netflix-eureka-client</artifactId>
 </dependency>
+
+Build Goal: spring-boot:build-image
